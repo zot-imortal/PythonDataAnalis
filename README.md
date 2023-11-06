@@ -16,4 +16,6 @@ Public Education: We plan to disseminate our research and recommendations to inc
 
 This project was created to support the transition to greener and more efficient energy sources and promote sustainable development. We invite researchers, ecologists, engineers and anyone interested in energy efficiency to join our team and contribute to achieving these goals.
 ![image](https://github.com/zot-imortal/PythonDataAnalis/assets/78374936/db48ca1e-aeb1-4433-9da0-b6bed4e5a9ed)
+![image](https://github.com/zot-imortal/PythonDataAnalis/assets/78374936/8c90cd5f-13c1-4ce8-ad3a-01b417175d2e)
+
 
